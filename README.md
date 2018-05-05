@@ -1,8 +1,12 @@
 # dog-breed-classification
 
 the dog_breed_classification_data_preparation.py contain the code to clean and prepare the data
+
 the dog_breed_classification.ipynb contaion the models build on the preapared data
+
 the dog_breed_prject_summary.docx contain the summary of the project
+
+
 
 Building model details:
 
